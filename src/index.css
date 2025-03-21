@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@theme {
+  --color-darkgray: #8c8c8c;
+  --color-verygray: #696969;
+  --font-bodyfont: Josefin;
+  --font-secondfont: Alata;
+}
+@font-face {
+  font-family: "Alata";
+  src: url(./assets/fonts/Alata/Alata-Regular.ttf);
+}
+@font-face {
+  font-family: "Josefin";
+  src: url(./assets/fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: white;
+}
