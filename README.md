@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 ## Live Demo 🌍
-loopstudios(loopstudios-two-nu.vercel.app)
+[Loopstudios](https://loopstudios-two-nu.vercel.app/)
 
 ## Acknowledgments 🙌
 
