@@ -36,12 +36,17 @@ To run this project locally, follow these steps:
    ```
 
 2. Navigate to the project folder:
+   ```sh
    cd loopstudios-landing-page
-3. Install dependencies:
+   ```
+4. Install dependencies:
+   ```sh
    npm install
-4. Start the development server:
+   ```
+6. Start the development server:
+   ```sh
    npm run dev
-
+   ```
 ## Live Demo 🌍
 
 ## Acknowledgments 🙌
